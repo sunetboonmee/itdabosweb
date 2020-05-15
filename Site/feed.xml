@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:1CE49500-31E2-4733-B431-77EADAD40875</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-08-06T15:30:54+07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:D5695C0A-9000-42BC-8B5B-4C87D8B3F94E</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">D5695C0A-9000-42BC-8B5B-4C87D8B3F94E</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2013-08-06T15:30:54.001+07:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:97C40EF7-36F2-4F02-9FC3-1A2E84DEC61D</id>
+  <title>About Us</title>
+  <title xmlns="urn:iweb:">About Us</title>
+  <in-navbar xmlns="urn:iweb:">97C40EF7-36F2-4F02-9FC3-1A2E84DEC61D</in-navbar>
+  <link rel="alternate" href="About_Us.html"/>
+  <updated>2013-08-06T15:30:54.002+07:00</updated>
+  <content>About Us</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:79A3FE16-A516-4D67-94DB-852C404C6502</id>
+  <title>Services</title>
+  <title xmlns="urn:iweb:">Services</title>
+  <in-navbar xmlns="urn:iweb:">79A3FE16-A516-4D67-94DB-852C404C6502</in-navbar>
+  <link rel="alternate" href="Services.html"/>
+  <updated>2013-08-06T15:30:54.003+07:00</updated>
+  <content>Services</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F6460D07-DBF3-4D84-95DF-5C2F1B369977</id>
+  <title>Knowledge Center</title>
+  <title xmlns="urn:iweb:">Knowledge Center</title>
+  <in-navbar xmlns="urn:iweb:">F6460D07-DBF3-4D84-95DF-5C2F1B369977</in-navbar>
+  <link rel="alternate" href="Knowledge_Center/Knowledge_Center.html"/>
+  <updated>2005-12-02T01:09:06+07:00</updated>
+  <content>Knowledge Center</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:63956D51-27C4-4FD5-BEF1-21B132B9E3BB</id>
+  <title>Contact us</title>
+  <title xmlns="urn:iweb:">Contact us</title>
+  <in-navbar xmlns="urn:iweb:">63956D51-27C4-4FD5-BEF1-21B132B9E3BB</in-navbar>
+  <link rel="alternate" href="Contact_us.html"/>
+  <updated>2013-08-06T15:30:54.004+07:00</updated>
+  <content>Contact us</content>
+ </entry>
+</feed>

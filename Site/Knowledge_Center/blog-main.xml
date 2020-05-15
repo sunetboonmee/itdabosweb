@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Knowledge Center</title>
+    <link>file://localhost/Users/choompol/Desktop/itdabos-web/Site/Knowledge_Center</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris.</description>
+    <item>
+      <title>Test Knowledge</title>
+      <link>file://localhost/Users/choompol/Desktop/itdabos-web/Site/Knowledge_Center/Entries/2013/7/31_Caspar_Beach_and_Camping.html</link>
+      <guid isPermaLink="false">27f2ce9c-41a6-4800-ad61-71e3f81de810</guid>
+      <pubDate>Wed, 31 Jul 2013 10:05:24 +0700</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/choompol/Desktop/itdabos-web/Site/Knowledge_Center/Entries/2013/7/31_Caspar_Beach_and_Camping.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/choompol/Desktop/itdabos-web/Site/Knowledge_Center</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
